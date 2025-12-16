@@ -1,0 +1,7 @@
+{
+  "name": "striveo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
